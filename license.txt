@@ -1,4 +1,4 @@
-				Apache License
+				GApache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -176,3 +176,4 @@
 	END OF TERMS AND CONDITIONS
 
 Testing the jenkins automation manually
+testing the tomcat deployment
