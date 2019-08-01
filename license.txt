@@ -176,4 +176,4 @@
 	END OF TERMS AND CONDITIONS
 
 Testing the jenkins automation manually
-testing the tomcat deployment
+testing the tomcat deployment.
