@@ -177,3 +177,4 @@
 
 Testing the jenkins automation manually
 testing the tomcat deployment.
+now we will test the full CI/CD
